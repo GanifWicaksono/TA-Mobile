@@ -1,0 +1,11 @@
+{
+  "name": "CareLink",
+  "short_name": "CareLink",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#EDF2F8",
+  "theme_color": "#6C9FE6",
+  "description": "CareLink - Aplikasi Keselamatan Lansia Berbasis Deteksi Jatuh Sensorik",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
